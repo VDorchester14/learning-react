@@ -22,7 +22,7 @@ class HelloWorld extends Component {
     removeGreeting() {
         this.props.removeGreeting(this.props.name);
     }
-    
+
     render() {
         return (
             <div className="HelloWorld">
