@@ -6,3 +6,11 @@
   margin: 20px;
   padding: 20px;
 }
+
+.HelloWorld .frenchify {
+    border-radius: 2px;
+}
+
+.HelloWorld .englishify {
+    border-radius: 2px;
+}
